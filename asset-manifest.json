@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9540de1b.css",
+    "main.js": "/static/js/main.fe08832a.js",
+    "static/js/787.7fa00042.chunk.js": "/static/js/787.7fa00042.chunk.js",
+    "static/media/perfil_1.png": "/static/media/perfil_1.0b25dac5cf5571b18171.png",
+    "static/media/logo-big_1.png": "/static/media/logo-big_1.c6b5a1d29c43cee4aeeb.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-sub.png": "/static/media/logo-sub.d11032aac3a7e5fbe7da.png",
+    "static/media/logo-jota_1.png": "/static/media/logo-jota_1.5e3fb41baf0227126695.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9540de1b.css.map": "/static/css/main.9540de1b.css.map",
+    "main.fe08832a.js.map": "/static/js/main.fe08832a.js.map",
+    "787.7fa00042.chunk.js.map": "/static/js/787.7fa00042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9540de1b.css",
+    "static/js/main.fe08832a.js"
+  ]
+}
